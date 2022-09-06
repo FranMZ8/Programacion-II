@@ -1,6 +1,5 @@
 //Estudiante: Franco Agustin Muñoz Cartagena
 //Proyecto Final BLACKJACK
-//Fecha de entrega: 24/06/2022
 //Mail: franmu8484@gmail.com
 
 #include <iostream>
